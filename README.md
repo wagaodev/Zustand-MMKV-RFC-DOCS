@@ -1,4 +1,4 @@
-# Sumário
+com # Sumário
 
 Essa proposta de feature inclui dois pontos, o primeiro é uma nova forma de
 gerenciamento de estados globais com o [Zustand](https://github.com/pmndrs/zustand),
@@ -75,9 +75,6 @@ export const zustandStorage: StateStorage = {
   },
 }
 ```
-
-Para ver mais detalhes da implementação verificar a 
-[Pull Request da poc]().
 
 # Motivação
 
