@@ -1,8 +1,3 @@
-# RFC
-
-- Data de início: 30-08-2022
-- RFC PR: 
-
 # Sumário
 
 Essa proposta de feature inclui dois pontos, o primeiro é uma nova forma de
